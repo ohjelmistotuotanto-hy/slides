@@ -1,2 +1,2 @@
 #!/bin/sh
-make -f 6
+make -f 7
